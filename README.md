@@ -1,4 +1,7 @@
 # Bachelor Thesis – Falling Through the System  
+
+you can find the thesis [here](thesis.pdf)
+
 **Quantitative Visualization of Patient Pathways Surrounding Inpatient Falls**
 
 This repository contains the code, notebooks, and supporting files for my bachelor thesis submitted at Technische Universität Berlin, titled *“Falling Through the System: Quantitative Visualization of Patient Pathways Surrounding Inpatient Falls”*.  
