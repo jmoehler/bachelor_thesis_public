@@ -1,6 +1,8 @@
 # Bachelor Thesis – Falling Through the System  
 
-you can find the thesis [here](thesis.pdf)
+-> You can find the thesis [here](thesis.pdf)
+
+---
 
 **Quantitative Visualization of Patient Pathways Surrounding Inpatient Falls**
 
